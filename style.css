@@ -1,0 +1,46 @@
+.btn{
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 50px auto;
+    display: block;
+
+}
+
+.red{
+    background-color: red;
+    color: #fff;
+}
+h1{
+    text-align: center;
+}
+.img,.img2 {
+    /* width: 100%; */
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+
+}
+.hidden{
+
+    margin: 0 auto;
+    display: none;
+    width: 200px;
+    height: 200px;
+
+}
+
+
+/* .hidden{
+    display: none;
+}
+
+
+
+#btn3{
+    background-color: blue;
+    color: red;
+    transition: 1s;
+    /* transform: translate(); */
+/* }  */
